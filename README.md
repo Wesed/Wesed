@@ -15,7 +15,7 @@ Tenho 23 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /></code>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/wesed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wesed/wesed/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- reativar isso qd tiver daados pra mostrar
