@@ -16,9 +16,9 @@ Tenho 23 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em 
 
 :world_map: Me encontre!
 
-<a href="https://www.linkedin.com/in/weslleyeduardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/weslleyeduardo"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/linkedin.svg" width="24" height="24" target="_blank"></a>
 <a href="mailto:dev.wfeduardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.instagram.com/wesfillipe"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/wesfillipe"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" width="24" height="24" target="_blank"></a>
 <a href="https://www.facebook.com/weslleyfillipee" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
 
 
