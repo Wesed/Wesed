@@ -1,14 +1,12 @@
-### Hello World!
-
-___
+# Hello World!
 
 
 
 Tenho 23 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em Front-end e UX/UI Design :wink:
 
+<br><br>
 
-
-:computer: Ferramentas:
+### :computer: Ferramentas:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></code>&ensp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></code>&ensp;
@@ -18,7 +16,9 @@ Tenho 23 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></code>&ensp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /></code>
 
-:world_map: Me encontre!
+<br><br>
+
+### :world_map: Me encontre!
 
 
 <a href="https://www.instagram.com/wesfillipe"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" width="24" height="24" target="_blank"></a>&ensp;
@@ -26,6 +26,8 @@ Tenho 23 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em 
 <a href="https://www.facebook.com/weslleyfillipee" target="_blank">![facebook_logos_PNG19753](https://user-images.githubusercontent.com/52588477/147628015-5f5bcf60-b33f-4234-9351-309220178d75.png)</a> &ensp;
 <a href="mailto:dev.wfeduardo@gmail.com">![13-gmail_icon-800x800](https://user-images.githubusercontent.com/52588477/147628204-1e000f37-a1a9-4068-b31a-ab3f2cb50a9d.png)
 </a>&ensp;
+
+#
 
 
 
