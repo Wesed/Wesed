@@ -15,7 +15,6 @@ PS: visualize no modo escuro :)
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></code>&ensp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></code>&ensp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /></code>&ensp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></code>&ensp;
 
 <br><br>
 
@@ -38,13 +37,13 @@ PS: visualize no modo escuro :)
 ![Snake animation](https://github.com/wesed/wesed/blob/output/github-contribution-grid-snake.svg)
 
 
-<!-- reativar isso qd tiver daados pra mostrar
+reativar isso qd tiver daados pra mostrar
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesed&layout=compact&langs_count=7&theme=dracula"/>
     <img src="https://github-readme-stats.vercel.app/api?username=wesed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-</div>  -->
+</div> 
 
 
 <!--
