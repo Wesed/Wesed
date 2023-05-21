@@ -2,7 +2,7 @@
 
 
 
-Tenho 23 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em Front-end e UX/UI Design :wink: <br>
+Tenho 25 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em Front-end e UX/UI Design :wink: <br>
 PS: visualize no modo escuro :)
 
 <br><br>
