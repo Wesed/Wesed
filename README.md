@@ -2,8 +2,9 @@
 
 
 
-Tenho 25 anos, sou formado em Engenharia de Software, entusiasta (iniciante) em Front-end e UX/UI Design :wink: <br>
-PS: visualize no modo escuro :)
+Olá! Atuo há mais de 5 anos como Desenvolvedor Frontend React. Pensando na experiência e na jornada do cliente, busco conhecimento com UX Design para aprimorar os projetos e as entregas.
+
+Graduado em Engenharia de Software pela Faculdade Unifae e estou sempre em busca de especialização em tecnologias que me agreguem conhecimento. :)
 
 <br><br>
 
